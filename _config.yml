@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
@@ -22,7 +22,7 @@ title                    : "Statistical Causality and Liberty"
 title_separator          : "-"
 name                     : "Hoyeon Hwang"
 description              : "An amazing website."
-url                      : "https://Munsasu.github.io"
+url                      : "https://hoyeon.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
